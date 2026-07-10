@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Games with animations, group audio/video calls, admin tools, faster media, security hardening."
+  "notes": "Welcome screen, smarter message merging (with on/off setting), keyboard no longer covers the chat, auto-scroll on new messages, win confetti, grouped notifications, clearer install steps."
 }
