@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Welcome screen, smarter message merging (with on/off setting), keyboard no longer covers the chat, auto-scroll on new messages, win confetti, grouped notifications, clearer install steps."
+  "notes": "New logo, floating message menu with reactions + full emoji picker, any-emoji reactions, an emoji tab in the composer, and compact GIF/sticker/emoji panels."
 }
