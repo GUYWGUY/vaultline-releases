@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "New logo, floating message menu with reactions + full emoji picker, any-emoji reactions, an emoji tab in the composer, and compact GIF/sticker/emoji panels."
+  "notes": "Native voice & video calls now work inside the app, and notifications are true native push (no more browser-style alerts). Plus all the latest: new logo, floating message menu with reactions, full emoji picker, and compact GIF/sticker panels."
 }
