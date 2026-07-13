@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Native voice & video calls now work inside the app, and notifications are true native push (no more browser-style alerts). Plus all the latest: new logo, floating message menu with reactions, full emoji picker, and compact GIF/sticker panels."
+  "notes": "Security hardening: sign-in now uses PKCE, group keys rotate when someone is removed (forward secrecy), the group password is server-gated, and link previews are hardened against SSRF. Plus everything from 1.4: native voice/video calls and native push."
 }
