@@ -1,5 +1,5 @@
 {
-  "version": "1.7.1",
+  "version": "1.8.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Your chats now sync across your devices — including 1:1 direct chats. Open a chat once on an existing device and its key seals to your other devices automatically, still fully end-to-end encrypted (the server never sees a key). Plus everything from 1.7: pins, disappearing messages, swipe-to-reply, and direct chats."
+  "notes": "Stories (24h status, end-to-end encrypted), contact key verification with a security-code + key-change warning (MITM protection), Saved Messages (notes to self), send multiple photos at once, and search across all your chats."
 }
