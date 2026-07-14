@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Pinned messages, disappearing messages (per-chat timer), swipe a message to reply, and 1:1 direct chats — message anyone privately, end-to-end encrypted. Builds on the 1.6 messaging update (formatting, typing, search, @mentions, forward)."
+  "notes": "Your chats now sync across your devices — including 1:1 direct chats. Open a chat once on an existing device and its key seals to your other devices automatically, still fully end-to-end encrypted (the server never sees a key). Plus everything from 1.7: pins, disappearing messages, swipe-to-reply, and direct chats."
 }
