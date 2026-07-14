@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Stories (24h status, end-to-end encrypted), contact key verification with a security-code + key-change warning (MITM protection), Saved Messages (notes to self), send multiple photos at once, and search across all your chats."
+  "notes": "Security hardening: disappearing messages and stories now enforced server-side (expired content is never served), pinning is admin-only, and contact verification covers all of a contact's keys. Includes 1.8: stories, key verification, saved messages, albums, and global search."
 }
