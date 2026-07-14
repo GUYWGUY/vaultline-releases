@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Hermetic security: your account now has a recovery code that locks your device list — no one (not even a compromised server) can add a device to read your chats without it. You'll be asked to save your recovery code, and new devices enter it to link. This is Signal-level device verification."
+  "notes": "Forgot your PIN? You can now reset it by re-confirming with Google — no data lost. Plus the 2.0 hermetic security (recovery-code device verification)."
 }
