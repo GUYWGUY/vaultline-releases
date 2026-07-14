@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
+  "version": "1.9.1",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Security hardening: disappearing messages and stories now enforced server-side (expired content is never served), pinning is admin-only, and contact verification covers all of a contact's keys. Includes 1.8: stories, key verification, saved messages, albums, and global search."
+  "notes": "Verified encryption: your identity now signs your devices, so no one can slip a fake device in to read your chats. Plus a big speed pass — chats open instantly, messages send without waiting on link previews, and scrolling is smoother."
 }
