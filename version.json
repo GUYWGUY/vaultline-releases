@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
+  "version": "1.6.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Fixes the on-screen keyboard covering the message box and bottom of the chat. Plus the 1.5 security hardening: PKCE sign-in, forward-secrecy key rotation, server-gated group password, and SSRF-hardened link previews."
+  "notes": "New messaging tools: bold/italic/spoiler text formatting, typing indicators, message search, @mentions, forward a message to another chat, and saved drafts. Plus the 1.5 security hardening and the keyboard fix."
 }
