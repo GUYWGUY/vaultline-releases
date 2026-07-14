@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "2.1.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Forgot your PIN? You can now reset it by re-confirming with Google — no data lost. Plus the 2.0 hermetic security (recovery-code device verification)."
+  "notes": "Pin, archive & mute chats. Translate any message. Save messages to a Saved view. Share contact cards & your location. Multiple-choice polls. Lock individual chats behind biometrics/PIN. Export a chat to a text file."
 }
