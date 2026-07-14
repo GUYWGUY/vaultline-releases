@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Pin, archive & mute chats. Translate any message. Save messages to a Saved view. Share contact cards & your location. Multiple-choice polls. Lock individual chats behind biometrics/PIN. Export a chat to a text file."
+  "notes": "Schedule messages to send later. Filter chats by All / Unread / Direct / Groups. Give contacts private nicknames. Add an About line to your profile. More chat wallpapers. Smoother chat opening (reliably scrolls to the newest message)."
 }
