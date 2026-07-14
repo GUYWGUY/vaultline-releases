@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Schedule messages to send later. Filter chats by All / Unread / Direct / Groups. Give contacts private nicknames. Add an About line to your profile. More chat wallpapers. Smoother chat opening (reliably scrolls to the newest message)."
+  "notes": "Private chats now sync to a new device just by opening Vaultline once on a device you already use. The recovery-code backup is optional (skip it, or set it up later in Settings → Security). Tidier voice-note badge. Plus everything from 2.2.0: scheduled messages, chat filters, nicknames, profile About, more wallpapers."
 }
