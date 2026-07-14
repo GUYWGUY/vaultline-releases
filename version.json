@@ -1,5 +1,5 @@
 {
-  "version": "1.9.1",
+  "version": "2.0.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Verified encryption: your identity now signs your devices, so no one can slip a fake device in to read your chats. Plus a big speed pass — chats open instantly, messages send without waiting on link previews, and scrolling is smoother."
+  "notes": "Hermetic security: your account now has a recovery code that locks your device list — no one (not even a compromised server) can add a device to read your chats without it. You'll be asked to save your recovery code, and new devices enter it to link. This is Signal-level device verification."
 }
