@@ -1,5 +1,5 @@
 {
-  "version": "2.2.3",
+  "version": "2.3.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Fixes a voice note whose Play button could flicker. The NSFW tag now sits in the corner with a soft pulse. Private chats sync to a new device just by opening Vaultline once on a device you already use, and the recovery-code backup is optional (Settings → Security). Plus scheduled messages, chat filters, nicknames, profile About, and more wallpapers."
+  "notes": "Big Android fixes: the keyboard no longer covers the chat (the composer lifts above it), photos and voice notes now load properly on the receiving phone, and chat wallpapers tile seamlessly edge to edge. Update recommended for everyone."
 }
