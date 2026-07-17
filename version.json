@@ -1,5 +1,5 @@
 {
-  "version": "2.3.2",
+  "version": "2.4.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Fixes photos, videos and voice notes not loading on Android — media downloads were failing at the network layer. Everything you send and receive should now display. Includes the keyboard and seamless-wallpaper fixes from 2.3.x."
+  "notes": "Much faster and smoother. Sending a photo returns you to the chat instantly (it uploads in the background). The message bar no longer freezes while media sends. Opening a chat is immediate — no blank flash. Builds on the media, keyboard and wallpaper fixes from 2.3.x."
 }
