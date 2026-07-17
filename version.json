@@ -1,5 +1,5 @@
 {
-  "version": "2.3.1",
+  "version": "2.3.2",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Photos now display on Android (they were failing to load). The message bar now sits right above the keyboard with no extra gap. Follows the 2.3.0 fixes: keyboard no longer covers the chat, voice notes load, and seamless wallpaper tiling."
+  "notes": "Fixes photos, videos and voice notes not loading on Android — media downloads were failing at the network layer. Everything you send and receive should now display. Includes the keyboard and seamless-wallpaper fixes from 2.3.x."
 }
