@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
+  "version": "2.6.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "New Games tab! Play 8 games against the computer — Chess, Tic-Tac-Toe, Connect Four, Basketball, 2048, Memory Match, Rock-Paper-Scissors and Dice. Everything runs on-device (no internet needed to play), and the AI gets tougher each level you win. New twist for every game, solo or vs a friend: only the winner sees the confetti — losers get a cheeky 'defeat' animation."
+  "notes": "Games got a big upgrade! Games now has its own tab, and every game feels alive: dice tumble to their result, Connect Four discs drop in, 2048 tiles slide and merge, cards flip in 3D. Basketball has a real hoop — swipe up to shoot a spinning arc. 2048 is swipe-controlled too. New game: Penalty Kicks vs a keeper. Dice and Rock-Paper-Scissors dropped their levels (they're pure luck). More coming: head-to-head timed battles in group chats."
 }
