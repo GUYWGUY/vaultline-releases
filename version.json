@@ -1,5 +1,5 @@
 {
-  "version": "2.6.0",
+  "version": "2.7.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Games got a big upgrade! Games now has its own tab, and every game feels alive: dice tumble to their result, Connect Four discs drop in, 2048 tiles slide and merge, cards flip in 3D. Basketball has a real hoop — swipe up to shoot a spinning arc. 2048 is swipe-controlled too. New game: Penalty Kicks vs a keeper. Dice and Rock-Paper-Scissors dropped their levels (they're pure luck). More coming: head-to-head timed battles in group chats."
+  "notes": "New game: Sudoku with difficulty levels — beat a level and the next has fewer clues. Plus head-to-head battles in group chats: challenge a friend to Basketball Blitz or 2048 Blitz — you each get 30 or 60 seconds and the higher score wins (only the winner sees the confetti!). Everything still runs on-device, no internet needed to play."
 }
