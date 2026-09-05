@@ -1,5 +1,5 @@
 {
-  "version": "2.8.0",
+  "version": "2.9.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Three new games — Texas Hold'em, Blackjack and Backgammon — solo and in group chats (poker up to 6 players, blackjack up to 5, backgammon 1v1). Backgammon shows every reachable move including combined dice, double-tap to play. Real felt, marble and wood board textures. Checkers multi-capture chains, chess last-move highlight, redesigned penalty shootout. The live game now floats over the chat instead of pushing it down. Plus a security hardening pass under the hood."
+  "notes": "A fresh look. New sign-in and first-launch screens, a redesigned chats list, Settings and Group info rebuilt as clean grouped lists, and a refreshed PIN screen. Light mode is here — pick Dark, Light or System on first launch or under Settings › Appearance. YouTube links play again, and the back arrow always takes you home."
 }
