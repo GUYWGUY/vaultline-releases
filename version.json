@@ -1,5 +1,5 @@
 {
-  "version": "2.9.1",
+  "version": "2.9.2",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Calls are fixed — the two sides could never actually connect to each other, so you only ever saw your friend's avatar. Voice and video now work, with a clear message if the mic or camera is blocked. On a computer a call floats over the chat and can be expanded to full screen. Also: the jump-to-latest button now really goes to the newest message, the floating game window has proper margins and can be reopened from the chat, and the main screen fills the whole window."
+  "notes": "Calls really work now. A retry could apply a stale reply to a rebuilt connection, leaving it stuck on 'connecting' forever with no picture and no sound. Hanging up now also ends the call on the other side instead of leaving their call screen open. Note that both people need the conversation open on screen for a call to connect. Also fixed: the selfie camera showed a black screen, and a game window you closed no longer reopens itself when you come back to the chat."
 }
