@@ -1,5 +1,5 @@
 {
-  "version": "2.9.2",
+  "version": "3.0.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Calls really work now. A retry could apply a stale reply to a rebuilt connection, leaving it stuck on 'connecting' forever with no picture and no sound. Hanging up now also ends the call on the other side instead of leaving their call screen open. Note that both people need the conversation open on screen for a call to connect. Also fixed: the selfie camera showed a black screen, and a game window you closed no longer reopens itself when you come back to the chat."
+  "notes": "Five new games: Tile Runs (build runs and groups, jokers are wild), Lumen Run (collect the lights, dodge the hunters), Crazy Eights, Durak and War. Plus a round of fixes from testing: chess pieces are readable again, Sudoku no longer gets stuck after you finish a level, every game offers a rematch, basketball works with a mouse, dice roll in 3D, and the buttons in chat games are no longer cut off. Posting a photo status now works reliably."
 }
