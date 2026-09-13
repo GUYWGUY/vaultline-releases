@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "3.1.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Five new games: Tile Runs (build runs and groups, jokers are wild), Lumen Run (collect the lights, dodge the hunters), Crazy Eights, Durak and War. Plus a round of fixes from testing: chess pieces are readable again, Sudoku no longer gets stuck after you finish a level, every game offers a rematch, basketball works with a mouse, dice roll in 3D, and the buttons in chat games are no longer cut off. Posting a photo status now works reliably."
+  "notes": "Safety and privacy: you can now block someone, and report a message — you choose whether to attach a readable copy, and a person reviews every report. Voice transcription, translation, link previews and GIF search now ask before they send anything off your device, with a switch for each in Settings. New in Settings: download all your data, delete your account for real, and the Terms, Privacy Policy and Accessibility Statement. Screen readers now name every button, announce new messages and reach every menu. And the app lock can no longer be skipped by opening a chat link directly."
 }
