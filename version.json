@@ -1,5 +1,5 @@
 {
-  "version": "3.4.0",
+  "version": "3.5.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Games. Every game now has a rules button — the goal, then a turn in the order it happens, for anyone who has never played it. Chess pieces are carved instead of typed, basketball gained a real gym and bowling a real lane, the dice are dice, and Lumen Run's maze looks built rather than drawn. Connect Four discs now fall through the holes and settle, instead of appearing where you tapped. War's tie rule was wrong and cost four cards a side; it is three now, and you can play a full deck with twenty-six cards each. A board that was bigger than the screen — Sudoku on a phone — now fits, and finishing a game no longer resizes the board underneath you."
+  "notes": "Screens now slide in and out on the phone, in the direction that matches your layout — from the right in LTR, from the left in RTL — and going back reverses the motion instead of looking like going forward. If animation feels heavy, Settings › Appearance › Animations turns it off; by default it follows your phone's own reduce-motion setting. Buttons at the bottom of a screen are no longer hidden behind Android's navigation bar: the end-of-game buttons, Create group, Join, the end of search results and of Group info, and the foot of the legal documents."
 }
