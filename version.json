@@ -1,5 +1,5 @@
 {
-  "version": "3.5.0",
+  "version": "3.6.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Screens now slide in and out on the phone, in the direction that matches your layout — from the right in LTR, from the left in RTL — and going back reverses the motion instead of looking like going forward. If animation feels heavy, Settings › Appearance › Animations turns it off; by default it follows your phone's own reduce-motion setting. Buttons at the bottom of a screen are no longer hidden behind Android's navigation bar: the end-of-game buttons, Create group, Join, the end of search results and of Group info, and the foot of the legal documents."
+  "notes": "Sudoku, rebuilt around how people actually solve. Tap a number — on the board or on the keypad — and every place it already sits lights up. Pencil mode lets you jot candidates in a small grid inside a cell, as many as you like; they never count as a guess or a mistake, and placing a number clears it from the notes of every cell it rules out. Each key shows how many of that number are left, and turns to a tick once all nine are in. Undo takes back any move, though it won't take back a mistake. There's an optional timer, and a digit-first mode: pick a number, then tap the cells it goes in. Also: billiard balls now cast round shadows instead of square ones."
 }
