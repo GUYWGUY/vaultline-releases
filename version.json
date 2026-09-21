@@ -1,5 +1,5 @@
 {
-  "version": "3.6.0",
+  "version": "3.6.1",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Sudoku, rebuilt around how people actually solve. Tap a number — on the board or on the keypad — and every place it already sits lights up. Pencil mode lets you jot candidates in a small grid inside a cell, as many as you like; they never count as a guess or a mistake, and placing a number clears it from the notes of every cell it rules out. Each key shows how many of that number are left, and turns to a tick once all nine are in. Undo takes back any move, though it won't take back a mistake. There's an optional timer, and a digit-first mode: pick a number, then tap the cells it goes in. Also: billiard balls now cast round shadows instead of square ones."
+  "notes": "Sudoku: tap a number on the keypad, then tap the empty cells it goes in — every cell you tap gets that number. Tap the number again to let go of it. A filled cell is never overwritten by a stray tap; it just shows you its own number."
 }
