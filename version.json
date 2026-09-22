@@ -1,5 +1,5 @@
 {
-  "version": "3.6.1",
+  "version": "3.7.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Sudoku: tap a number on the keypad, then tap the empty cells it goes in — every cell you tap gets that number. Tap the number again to let go of it. A filled cell is never overwritten by a stray tap; it just shows you its own number."
+  "notes": "Swipe a message to reply to it, the way you would on WhatsApp. It follows your layout — right in LTR, left in RTL — and a reply arrow appears as you drag, with a small tick once you've gone far enough. Let go there to reply; drag back first and nothing happens. It works on touch screens in the browser too, which is how an iPhone runs Vaultline."
 }
