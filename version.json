@@ -1,5 +1,5 @@
 {
-  "version": "3.7.0",
+  "version": "3.8.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Swipe a message to reply to it, the way you would on WhatsApp. It follows your layout — right in LTR, left in RTL — and a reply arrow appears as you drag, with a small tick once you've gone far enough. Let go there to reply; drag back first and nothing happens. It works on touch screens in the browser too, which is how an iPhone runs Vaultline."
+  "notes": "Messages arrive when they're sent. Notifications had stopped going out entirely; they work again, and Vaultline now asks once for permission to send them, which it never used to do on Android. A message sent while your connection dropped used to wait until you reopened the app; it now arrives as soon as the connection is back, and the chat list updates live instead of only when you open it. Photos also sit evenly inside their message bubble."
 }
