@@ -1,5 +1,5 @@
 {
-  "version": "3.9.0",
+  "version": "3.9.1",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Save a photo from a chat to your phone: open it and tap Save. Everyone in the chat sees a small note that you saved it, and it never works for view-once photos or chats in your Vault. Photos in a chat now sit slightly pressed into their bubble. On iPhone, every message now makes its notification sound, not only the first one in a chat."
+  "notes": "Photos can no longer be saved from chats with disappearing messages, or when the photo itself is set to disappear — a saved copy would outlast the message. View-once photos and Vault chats were already excluded."
 }
