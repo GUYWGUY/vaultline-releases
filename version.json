@@ -1,5 +1,5 @@
 {
-  "version": "3.8.0",
+  "version": "3.9.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Messages arrive when they're sent. Notifications had stopped going out entirely; they work again, and Vaultline now asks once for permission to send them, which it never used to do on Android. A message sent while your connection dropped used to wait until you reopened the app; it now arrives as soon as the connection is back, and the chat list updates live instead of only when you open it. Photos also sit evenly inside their message bubble."
+  "notes": "Save a photo from a chat to your phone: open it and tap Save. Everyone in the chat sees a small note that you saved it, and it never works for view-once photos or chats in your Vault. Photos in a chat now sit slightly pressed into their bubble. On iPhone, every message now makes its notification sound, not only the first one in a chat."
 }
