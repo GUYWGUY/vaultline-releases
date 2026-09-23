@@ -1,5 +1,5 @@
 {
-  "version": "3.9.1",
+  "version": "3.10.0",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Photos can no longer be saved from chats with disappearing messages, or when the photo itself is set to disappear — a saved copy would outlast the message. View-once photos and Vault chats were already excluded."
+  "notes": "The games are objects now. Connect Four is a moulded plate with drilled holes and glossy checkers sitting in them; tic-tac-toe is a slate tile with the grid cut into it and the marks inlaid, and a win is struck through with a line instead of shading three squares. Boards also stay inside their card — checkers and the memory game no longer have to be scrolled to be seen. In Tile Runs, ending a turn worth less than the thirty needed to open used to throw the whole turn away on one tap, with no warning: the button now says Take back and asks again, and your rack shows every tile at once instead of scrolling sideways. A game whose card you closed, or whose message the conversation has buried, is offered above the message box as continue, so it is never more than a tap away. Text that joins a message already on the screen lights up for a few seconds, because a second message joins the bubble instead of arriving as a new one. Old-style faces like :-) and <3 become emoji as you type. And the app icon now carries how many chats are waiting for you."
 }
