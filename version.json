@@ -1,5 +1,5 @@
 {
-  "version": "3.17.0",
+  "version": "3.17.1",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Your whole chat history: scroll up and earlier messages keep loading, all the way to the beginning; jumping to a quoted, pinned or saved message loads what it needs. Group admins can choose how long messages are kept — forever (the default), a year, six months, three months or a month — under Group info. Links in messages are now tappable: Vaultline shows exactly where a link goes before you leave, and warns about look-alike or disguised addresses. Background music opens a proper Now playing panel with the track name, play/pause, next/previous and volume, and admins can set a playlist of up to 12 tracks."
+  "notes": "A small fix: opening a link to a page inside Vaultline while signed out now takes you to sign-in, instead of an empty screen. Everything from 3.17.0 is included: earlier messages load as you scroll up, groups can choose how long messages are kept, links in messages are tappable with a warning before you leave, and background music has a Now playing panel and playlists."
 }
