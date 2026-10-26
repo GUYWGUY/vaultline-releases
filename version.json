@@ -1,5 +1,5 @@
 {
-  "version": "3.17.2",
+  "version": "3.17.3",
   "apk": "https://raw.githubusercontent.com/GUYWGUY/vaultline-releases/main/vaultline.apk",
-  "notes": "Scroll back as far as you like: a chat no longer jumps to the newest message while you are reading earlier ones. Once you have scrolled up about a screen, a button takes you back to the newest message, with a count of the new messages that arrived meanwhile. Sending a message still brings you to the bottom."
+  "notes": "With the keyboard open you can now long-press a message for its menu or swipe it to reply, without closing the keyboard first — a tap on empty space still closes it. On a computer, opening a chat puts the cursor straight in the message box, so you can start typing at once (and typing with nothing selected goes into the box too)."
 }
